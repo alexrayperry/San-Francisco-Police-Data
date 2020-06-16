@@ -43,7 +43,7 @@ def show():
 @app.route('/visual2')
 def show2():
 
- return render_template('visual2.html')
+    return render_template('visual2.html')
 
 
 # Boiler plate 
